@@ -1,0 +1,10 @@
+[submodule "Marlin"]
+	path = Marlin
+	url = git@github.com:dapu1975/Marlin.git
+[submodule "SGEN_L"]
+	path = SGEN_L
+	url = git@github.com:dapu1975/SGEN_L.git
+[submodule "MKS-TFT35-Firmware"]
+	path = MKS-TFT35-Firmware
+	url = git@github.com:dapu1975/MKS-TFT35-Firmware.git
+
